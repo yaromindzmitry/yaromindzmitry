@@ -18,7 +18,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am a  Junior QA Engineer and Developer 
+I am a  QA Engineer and Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - :telescope: I’m working as a Junior QA Engineer.
 
