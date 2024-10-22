@@ -38,8 +38,9 @@ I am a  QA Engineer and Developer
 ---
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jexqud-7qexci-dyzTad&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jexqud-7qexci-dyzTad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yaromindzmitry&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaromindzmitry&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jexqud-7qexci-dyzTad/jexqud-7qexci-dyzTad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
