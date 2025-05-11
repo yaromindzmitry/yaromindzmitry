@@ -51,7 +51,7 @@ Passionate about **automation, observability, and bots**.
 🔌 APIs & Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" width="25"/> Telegram Bot API
 <img src="https://img.icons8.com/color/32/google-sheets.png" title="Google Sheets" width="25"/> Google Sheets API
-<img src="assets/openai.png" width="25"/> OpenAI API
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" width="120"/> OpenAI API
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="25"/> VS Code
 
 
