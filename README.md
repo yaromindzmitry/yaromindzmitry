@@ -18,6 +18,20 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=yaromindzmitry&color=blue)
+![Automation](https://img.shields.io/badge/Tests-Automated-green)
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-important)
+![Playwright](https://img.shields.io/badge/Playwright-Test%20Ready-brightgreen)
+![Pytest](https://img.shields.io/badge/Pytest-Framework-yellow)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
+![OS](https://img.shields.io/badge/Linux%20%7C%20macOS-tested-lightgrey)
+![Allure](https://img.shields.io/badge/Allure-Reports-orange)
+![Docker](https://img.shields.io/badge/Docker-containerized-blue)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange)
+
+
+
 ### 👨‍💻 About Me
 
 I’m **Dmitry**, a QA Engineer & Developer based in **Poland** 🇵🇱  
