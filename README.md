@@ -147,7 +147,7 @@ Black-box pentest workflow built around OWASP ZAP.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yaromindzmitry&theme=dark&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaromindzmitry&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yaromindzmitry&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
