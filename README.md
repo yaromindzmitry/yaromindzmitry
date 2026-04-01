@@ -52,37 +52,29 @@ Available for: **full-time roles** and **freelance QA engagements** (automation,
 
 ## 🛠️ Tools & Technologies
 
-### Testing & Security
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" title="Pytest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" title="Selenium"/>
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" height="48" title="k6"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-CC0000?style=for-the-badge&logoColor=white" height="48" title="OWASP ZAP"/>
-  <img src="https://img.shields.io/badge/Allure-FF6900?style=for-the-badge&logoColor=white" height="48" title="Allure"/>
+  <a href="https://k6.io" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" title="Python"/></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" width="48" title="Selenium"/></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" width="48" title="Grafana"/></a>
+  <a href="https://prometheus.io" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" width="48" title="Prometheus"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="48" title="GitHub Actions"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" title="Python"/></a>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width="48" title="Rust"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="48" title="Postman"/></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux"/></a>
 </p>
 
-### Observability
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" title="Grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" title="Prometheus"/>
-</p>
-
-### Languages & Infra
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" title="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
-</p>
-
-### Communication & Reporting
-<p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" title="Excel Reports"/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="48" title="Word Reports"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" title="Telegram Bots"/>
+  <a href="https://k6.io" target="_blank"><img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/></a>
+  <a href="https://www.zaproxy.org" target="_blank"><img src="https://img.shields.io/badge/OWASP_ZAP-CC0000?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://docs.pytest.org" target="_blank"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/></a>
+  <a href="https://allurereport.org" target="_blank"><img src="https://img.shields.io/badge/Allure-FF6900?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://telegram.org" target="_blank"><img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 **Languages spoken:** 🇷🇺 Russian · 🇵🇱 Polish · 🇬🇧 English
