@@ -77,8 +77,6 @@ Available for: **full-time roles** and **freelance QA engagements** (automation,
   <a href="https://telegram.org" target="_blank"><img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-**Languages spoken:** 🇷🇺 Russian · 🇵🇱 Polish · 🇬🇧 English
-
 ---
 
 ## Projects
