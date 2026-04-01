@@ -128,7 +128,7 @@ Automated UI/UX validation tooling for multi-locale web platform (15+ regional d
 
 ---
 
-### ⚡ k6 Browser Performance Framework *(coming soon)*
+### ⚡ [k6-browser-performance-framework](https://github.com/yaromindzmitry/k6-browser-performance-framework)
 Production-grade k6 Browser Mode framework developed during a commercial QA engagement.
 
 - Multi-locale load testing (15+ domains)
