@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dzmitry Yaromin
+# Dzmitry 
 ### QA Engineer · Performance & Security Testing · Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzmitry-yaromin-10a92a326)
