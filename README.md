@@ -50,28 +50,40 @@ Available for: **full-time roles** and **freelance QA engagements** (automation,
 
 ---
 
-## Tech Stack
+## 🛠️ Tools & Technologies
 
-**Testing**
+### Testing & Security
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" title="Pytest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" title="Selenium"/>
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" height="48" title="k6"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-CC0000?style=for-the-badge&logoColor=white" height="48" title="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Allure-FF6900?style=for-the-badge&logoColor=white" height="48" title="Allure"/>
+</p>
 
-![k6](https://img.shields.io/badge/k6-Load_Testing-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-Framework-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Security-CC0000?style=flat-square)
-![Allure](https://img.shields.io/badge/Allure-Reports-FF6900?style=flat-square)
+### Observability
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" title="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" title="Prometheus"/>
+</p>
 
-**Observability**
+### Languages & Infra
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" title="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
+</p>
 
-![Grafana](https://img.shields.io/badge/Grafana-Monitoring-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-k6_scripts-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-learning-000000?style=flat-square&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+### Communication & Reporting
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" title="Excel Reports"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="48" title="Word Reports"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" title="Telegram Bots"/>
+</p>
 
 **Languages spoken:** 🇷🇺 Russian · 🇵🇱 Polish · 🇬🇧 English
 
